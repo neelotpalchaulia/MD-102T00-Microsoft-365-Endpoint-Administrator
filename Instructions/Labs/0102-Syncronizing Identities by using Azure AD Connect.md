@@ -16,7 +16,7 @@ Contoso Corporation is currently managing users in both AD DS and Azure AD as se
 
 3. In the address bar, enter `http://www.microsoft.com/en-us/download/details.aspx?id=47594`.
 
-4. On the Microsoft Azure Active Directory Connect page, select **Download**. 
+4. On the Microsoft Azure Active Directory Connect section, select **Download**. 
 
     > Azure AD Connect automatically downloads to the **Downloads** folder on SEA-SVR1.
 
@@ -84,7 +84,7 @@ Contoso Corporation is currently managing users in both AD DS and Azure AD as se
 
 11. Verify that you see users from your local AD DS. Ensure that these users have the value **Yes** in the **On-premises sync enabled** column. 
 
-12. In the Navigation pane, select **Azure Active Directory** and then select **Groups** > **All groups**. Verify that you see groups from your local AD DS. Ensure that these groups have the value **Windows Server AD** in the **Source** column.
+12. In the Navigation pane, select **Identity** and then select **Groups** > **All groups**. Verify that you see groups from your local AD DS. Ensure that these groups have the value **Windows Server AD** in the **Source** column.
 
 13. Select the **Managers** group.
 
